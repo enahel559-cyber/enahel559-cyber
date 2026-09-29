@@ -144,6 +144,27 @@ The project helped me practice:
 `Python` `PyQt` `OpenWeather API`
 
 ---
+## 🗺️ Interactive Geographic Map
+
+A separate Python project focused on **interactive cartography and
+geographic data visualization**.
+
+The project allows geographic information to be displayed and explored
+through an interactive map.
+
+### Main features
+- 📍 Geographic location of data
+- 🗺️ Interactive map
+- 🔎 Exploration of different locations
+- 📊 Geographic data visualization
+- 🌍 Spatial data handling
+
+### Technologies
+`Python` `GIS` `Interactive Mapping`
+
+### Project objective
+To learn how geographic data can be processed and transformed into
+interactive visualizations.
 
 ## 🔐 Password Checker
 
