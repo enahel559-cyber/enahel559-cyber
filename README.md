@@ -63,7 +63,88 @@ My current focus is on developing practical skills in **programming, GIS, data a
 ---
 
 # 🚀 My Projects
+# 🌱 GreenPulse
+### Renewable Energy Potential Analysis | Python • GIS • Data
 
+> 🧩 **Build the idea. Connect the data. Test the model. Improve the system.**
+
+GreenPulse is a **Science & Engineering project** exploring how geographic,
+environmental and technical data can be combined to identify areas with
+interesting **renewable energy potential**.
+
+The project was built as a practical way to connect **programming,
+data analysis, GIS and renewable energy concepts**.
+
+---
+
+## 🧩 From Data to Engineering
+
+Think of GreenPulse like building with LEGO:
+
+🧩 **Each parameter is a piece**  
+🔗 **The model connects the pieces**  
+🧪 **The system is tested**  
+📊 **The results are analyzed**  
+⚙️ **The model can then be improved**
+
+The goal is not simply to display data, but to understand how different
+parameters interact in a simplified engineering model.
+
+---
+
+## ☀️ What Does GreenPulse Analyze?
+
+GreenPulse evaluates several parameters that can influence renewable
+energy potential:
+
+| Parameter | Role |
+|---|---|
+| ☀️ Solar irradiance | Available solar energy |
+| 🏠 Roof area | Potential installation surface |
+| ⛰️ Terrain slope | Geographic suitability |
+| ⚡ Grid distance | Connection consideration |
+| 🌡️ Temperature | Environmental factor |
+| 📍 Geographic location | Spatial analysis |
+
+These parameters are combined into a **simplified potential score /100**.
+
+---
+
+## 🗺️ Interactive GIS Visualization
+
+GreenPulse includes an interactive map to visualize the analyzed areas.
+
+Users can:
+
+- 📍 Explore geographic locations
+- 🗺️ Visualize potential areas
+- 🔎 Select individual zones
+- 📊 Compare scores
+- 🔍 Filter results
+- 📋 Inspect the underlying data
+
+Geographic information is handled using **GeoJSON and GIS concepts**.
+
+---
+
+## ⚙️ Engineering Approach
+
+GreenPulse follows a simplified data-driven workflow:
+
+
+🌍 Geographic Data
+        ↓
+📊 Data Processing
+        ↓
+🔬 Parameter Analysis
+        ↓
+⚙️ Weighted Model
+        ↓
+📈 Potential Score
+        ↓
+🗺️ Interactive Visualization
+        ↓
+💡 Engineering Interpretation
 
 
 
