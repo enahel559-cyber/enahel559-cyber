@@ -63,6 +63,34 @@ My current focus is on developing practical skills in **programming, GIS, data a
 ---
 
 # 🚀 My Projects
+<div align="center">
+
+<img src="assets/greenpulse-logo.png" alt="GreenPulse" width="280">
+
+<h1>GreenPulse</h1>
+
+<h3>Renewable Energy Potential Analysis</h3>
+
+<p>
+  A Python-based engineering project combining
+  <b>data analysis</b>, <b>GIS</b>, <b>modelling</b>
+  and <b>renewable energy</b>.
+</p>
+
+<p>
+  🐍 Python &nbsp; • &nbsp;
+  🗺️ GIS &nbsp; • &nbsp;
+  📊 Data &nbsp; • &nbsp;
+  ☀️ Renewable Energy
+</p>
+
+<hr>
+
+<p>
+  🧩 <b>Think like an engineer. Build it piece by piece.</b>
+</p>
+
+</div>
 # 🌱 GreenPulse
 ### Renewable Energy Potential Analysis | Python • GIS • Data
 
